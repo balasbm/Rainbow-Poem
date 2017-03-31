@@ -9,3 +9,5 @@ G - green
 Y - yellow
 O - orange
 R - red
+Aqua
+pink
